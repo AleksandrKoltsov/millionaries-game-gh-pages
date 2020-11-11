@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/millionaries-game-gh-pages/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/millionaries-game-gh-pages/static/js/main.af8997c9.chunk.js",
+    "main.js.map": "/millionaries-game-gh-pages/static/js/main.af8997c9.chunk.js.map",
+    "runtime-main.js": "/millionaries-game-gh-pages/static/js/runtime-main.535d66b0.js",
+    "runtime-main.js.map": "/millionaries-game-gh-pages/static/js/runtime-main.535d66b0.js.map",
+    "static/js/2.fb888c6c.chunk.js": "/millionaries-game-gh-pages/static/js/2.fb888c6c.chunk.js",
+    "static/js/2.fb888c6c.chunk.js.map": "/millionaries-game-gh-pages/static/js/2.fb888c6c.chunk.js.map",
+    "static/js/3.7dfcc93e.chunk.js": "/millionaries-game-gh-pages/static/js/3.7dfcc93e.chunk.js",
+    "static/js/3.7dfcc93e.chunk.js.map": "/millionaries-game-gh-pages/static/js/3.7dfcc93e.chunk.js.map",
+    "index.html": "/millionaries-game-gh-pages/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/millionaries-game-gh-pages/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.fb888c6c.chunk.js.LICENSE.txt": "/millionaries-game-gh-pages/static/js/2.fb888c6c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.535d66b0.js",
+    "static/js/2.fb888c6c.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.af8997c9.chunk.js"
+  ]
+}
